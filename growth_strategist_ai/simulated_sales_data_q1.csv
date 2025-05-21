@@ -1,0 +1,820 @@
+date,product,region,units_sold,revenue
+2024-01-01,Laptop,Europe,167,167000
+2024-01-01,Laptop,Asia,168,168000
+2024-01-01,Laptop,North America,211,211000
+2024-01-01,Monitor,Europe,202,60600
+2024-01-01,Monitor,Asia,51,15300
+2024-01-01,Monitor,North America,178,53400
+2024-01-01,Tablet,Europe,153,61200
+2024-01-01,Tablet,Asia,105,42000
+2024-01-01,Tablet,North America,242,96800
+2024-01-02,Laptop,Europe,218,218000
+2024-01-02,Laptop,Asia,64,64000
+2024-01-02,Laptop,North America,247,247000
+2024-01-02,Monitor,Europe,100,30000
+2024-01-02,Monitor,Asia,106,31800
+2024-01-02,Monitor,North America,170,51000
+2024-01-02,Tablet,Europe,154,61600
+2024-01-02,Tablet,Asia,170,68000
+2024-01-02,Tablet,North America,138,55200
+2024-01-03,Laptop,Europe,143,143000
+2024-01-03,Laptop,Asia,227,227000
+2024-01-03,Laptop,North America,177,177000
+2024-01-03,Monitor,Europe,226,67800
+2024-01-03,Monitor,Asia,246,73800
+2024-01-03,Monitor,North America,158,47400
+2024-01-03,Tablet,Europe,206,82400
+2024-01-03,Tablet,Asia,96,38400
+2024-01-03,Tablet,North America,51,20400
+2024-01-04,Laptop,Europe,237,237000
+2024-01-04,Laptop,Asia,183,183000
+2024-01-04,Laptop,North America,111,111000
+2024-01-04,Monitor,Europe,148,44400
+2024-01-04,Monitor,Asia,201,60300
+2024-01-04,Monitor,North America,228,68400
+2024-01-04,Tablet,Europe,166,66400
+2024-01-04,Tablet,Asia,106,42400
+2024-01-04,Tablet,North America,139,55600
+2024-01-05,Laptop,Europe,117,117000
+2024-01-05,Laptop,Asia,174,174000
+2024-01-05,Laptop,North America,214,214000
+2024-01-05,Monitor,Europe,59,17700
+2024-01-05,Monitor,Asia,247,74100
+2024-01-05,Monitor,North America,217,65100
+2024-01-05,Tablet,Europe,192,76800
+2024-01-05,Tablet,Asia,58,23200
+2024-01-05,Tablet,North America,100,40000
+2024-01-06,Laptop,Europe,138,138000
+2024-01-06,Laptop,Asia,190,190000
+2024-01-06,Laptop,North America,88,88000
+2024-01-06,Monitor,Europe,67,20100
+2024-01-06,Monitor,Asia,191,57300
+2024-01-06,Monitor,North America,120,36000
+2024-01-06,Tablet,Europe,56,22400
+2024-01-06,Tablet,Asia,102,40800
+2024-01-06,Tablet,North America,242,96800
+2024-01-07,Laptop,Europe,210,210000
+2024-01-07,Laptop,Asia,245,245000
+2024-01-07,Laptop,North America,176,176000
+2024-01-07,Monitor,Europe,65,19500
+2024-01-07,Monitor,Asia,184,55200
+2024-01-07,Monitor,North America,52,15600
+2024-01-07,Tablet,Europe,147,58800
+2024-01-07,Tablet,Asia,154,61600
+2024-01-07,Tablet,North America,115,46000
+2024-01-08,Laptop,Europe,65,65000
+2024-01-08,Laptop,Asia,103,103000
+2024-01-08,Laptop,North America,100,100000
+2024-01-08,Monitor,Europe,216,64800
+2024-01-08,Monitor,Asia,159,47700
+2024-01-08,Monitor,North America,84,25200
+2024-01-08,Tablet,Europe,226,90400
+2024-01-08,Tablet,Asia,141,56400
+2024-01-08,Tablet,North America,170,68000
+2024-01-09,Laptop,Europe,245,245000
+2024-01-09,Laptop,Asia,227,227000
+2024-01-09,Laptop,North America,189,189000
+2024-01-09,Monitor,Europe,207,62100
+2024-01-09,Monitor,Asia,90,27000
+2024-01-09,Monitor,North America,89,26700
+2024-01-09,Tablet,Europe,68,27200
+2024-01-09,Tablet,Asia,142,56800
+2024-01-09,Tablet,North America,216,86400
+2024-01-10,Laptop,Europe,220,220000
+2024-01-10,Laptop,Asia,117,117000
+2024-01-10,Laptop,North America,234,234000
+2024-01-10,Monitor,Europe,184,55200
+2024-01-10,Monitor,Asia,230,69000
+2024-01-10,Monitor,North America,52,15600
+2024-01-10,Tablet,Europe,93,37200
+2024-01-10,Tablet,Asia,159,63600
+2024-01-10,Tablet,North America,113,45200
+2024-01-11,Laptop,Europe,222,222000
+2024-01-11,Laptop,Asia,128,128000
+2024-01-11,Laptop,North America,231,231000
+2024-01-11,Monitor,Europe,159,47700
+2024-01-11,Monitor,Asia,161,48300
+2024-01-11,Monitor,North America,222,66600
+2024-01-11,Tablet,Europe,88,35200
+2024-01-11,Tablet,Asia,60,24000
+2024-01-11,Tablet,North America,246,98400
+2024-01-12,Laptop,Europe,81,81000
+2024-01-12,Laptop,Asia,241,241000
+2024-01-12,Laptop,North America,178,178000
+2024-01-12,Monitor,Europe,192,57600
+2024-01-12,Monitor,Asia,171,51300
+2024-01-12,Monitor,North America,177,53100
+2024-01-12,Tablet,Europe,129,51600
+2024-01-12,Tablet,Asia,130,52000
+2024-01-12,Tablet,North America,148,59200
+2024-01-13,Laptop,Europe,131,131000
+2024-01-13,Laptop,Asia,124,124000
+2024-01-13,Laptop,North America,235,235000
+2024-01-13,Monitor,Europe,52,15600
+2024-01-13,Monitor,Asia,182,54600
+2024-01-13,Monitor,North America,181,54300
+2024-01-13,Tablet,Europe,65,26000
+2024-01-13,Tablet,Asia,159,63600
+2024-01-13,Tablet,North America,118,47200
+2024-01-14,Laptop,Europe,235,235000
+2024-01-14,Laptop,Asia,61,61000
+2024-01-14,Laptop,North America,84,84000
+2024-01-14,Monitor,Europe,95,28500
+2024-01-14,Monitor,Asia,146,43800
+2024-01-14,Monitor,North America,239,71700
+2024-01-14,Tablet,Europe,229,91600
+2024-01-14,Tablet,Asia,72,28800
+2024-01-14,Tablet,North America,235,94000
+2024-01-15,Laptop,Europe,71,71000
+2024-01-15,Laptop,Asia,90,90000
+2024-01-15,Laptop,North America,83,83000
+2024-01-15,Monitor,Europe,72,21600
+2024-01-15,Monitor,Asia,133,39900
+2024-01-15,Monitor,North America,163,48900
+2024-01-15,Tablet,Europe,84,33600
+2024-01-15,Tablet,Asia,153,61200
+2024-01-15,Tablet,North America,183,73200
+2024-01-16,Laptop,Europe,68,68000
+2024-01-16,Laptop,Asia,120,120000
+2024-01-16,Laptop,North America,99,99000
+2024-01-16,Monitor,Europe,214,64200
+2024-01-16,Monitor,Asia,212,63600
+2024-01-16,Monitor,North America,94,28200
+2024-01-16,Tablet,Europe,102,40800
+2024-01-16,Tablet,Asia,131,52400
+2024-01-16,Tablet,North America,65,26000
+2024-01-17,Laptop,Europe,85,85000
+2024-01-17,Laptop,Asia,248,248000
+2024-01-17,Laptop,North America,183,183000
+2024-01-17,Monitor,Europe,152,45600
+2024-01-17,Monitor,Asia,86,25800
+2024-01-17,Monitor,North America,119,35700
+2024-01-17,Tablet,Europe,188,75200
+2024-01-17,Tablet,Asia,51,20400
+2024-01-17,Tablet,North America,155,62000
+2024-01-18,Laptop,Europe,130,130000
+2024-01-18,Laptop,Asia,144,144000
+2024-01-18,Laptop,North America,141,141000
+2024-01-18,Monitor,Europe,224,67200
+2024-01-18,Monitor,Asia,209,62700
+2024-01-18,Monitor,North America,244,73200
+2024-01-18,Tablet,Europe,153,61200
+2024-01-18,Tablet,Asia,101,40400
+2024-01-18,Tablet,North America,52,20800
+2024-01-19,Laptop,Europe,78,78000
+2024-01-19,Laptop,Asia,134,134000
+2024-01-19,Laptop,North America,109,109000
+2024-01-19,Monitor,Europe,245,73500
+2024-01-19,Monitor,Asia,194,58200
+2024-01-19,Monitor,North America,92,27600
+2024-01-19,Tablet,Europe,178,71200
+2024-01-19,Tablet,Asia,110,44000
+2024-01-19,Tablet,North America,164,65600
+2024-01-20,Laptop,Europe,195,195000
+2024-01-20,Laptop,Asia,209,209000
+2024-01-20,Laptop,North America,76,76000
+2024-01-20,Monitor,Europe,144,43200
+2024-01-20,Monitor,Asia,62,18600
+2024-01-20,Monitor,North America,67,20100
+2024-01-20,Tablet,Europe,185,74000
+2024-01-20,Tablet,Asia,128,51200
+2024-01-20,Tablet,North America,123,49200
+2024-01-21,Laptop,Europe,89,89000
+2024-01-21,Laptop,Asia,176,176000
+2024-01-21,Laptop,North America,59,59000
+2024-01-21,Monitor,Europe,170,51000
+2024-01-21,Monitor,Asia,188,56400
+2024-01-21,Monitor,North America,146,43800
+2024-01-21,Tablet,Europe,129,51600
+2024-01-21,Tablet,Asia,231,92400
+2024-01-21,Tablet,North America,232,92800
+2024-01-22,Laptop,Europe,208,208000
+2024-01-22,Laptop,Asia,164,164000
+2024-01-22,Laptop,North America,132,132000
+2024-01-22,Monitor,Europe,53,15900
+2024-01-22,Monitor,Asia,60,18000
+2024-01-22,Monitor,North America,100,30000
+2024-01-22,Tablet,Europe,75,30000
+2024-01-22,Tablet,Asia,160,64000
+2024-01-22,Tablet,North America,155,62000
+2024-01-23,Laptop,Europe,93,93000
+2024-01-23,Laptop,Asia,156,156000
+2024-01-23,Laptop,North America,109,109000
+2024-01-23,Monitor,Europe,166,49800
+2024-01-23,Monitor,Asia,228,68400
+2024-01-23,Monitor,North America,83,24900
+2024-01-23,Tablet,Europe,173,69200
+2024-01-23,Tablet,Asia,209,83600
+2024-01-23,Tablet,North America,64,25600
+2024-01-24,Laptop,Europe,196,196000
+2024-01-24,Laptop,Asia,77,77000
+2024-01-24,Laptop,North America,126,126000
+2024-01-24,Monitor,Europe,134,40200
+2024-01-24,Monitor,Asia,54,16200
+2024-01-24,Monitor,North America,67,20100
+2024-01-24,Tablet,Europe,57,22800
+2024-01-24,Tablet,Asia,166,66400
+2024-01-24,Tablet,North America,199,79600
+2024-01-25,Laptop,Europe,150,150000
+2024-01-25,Laptop,Asia,107,107000
+2024-01-25,Laptop,North America,169,169000
+2024-01-25,Monitor,Europe,170,51000
+2024-01-25,Monitor,Asia,238,71400
+2024-01-25,Monitor,North America,53,15900
+2024-01-25,Tablet,Europe,75,30000
+2024-01-25,Tablet,Asia,244,97600
+2024-01-25,Tablet,North America,149,59600
+2024-01-26,Laptop,Europe,97,97000
+2024-01-26,Laptop,Asia,228,228000
+2024-01-26,Laptop,North America,184,184000
+2024-01-26,Monitor,Europe,132,39600
+2024-01-26,Monitor,Asia,87,26100
+2024-01-26,Monitor,North America,87,26100
+2024-01-26,Tablet,Europe,155,62000
+2024-01-26,Tablet,Asia,71,28400
+2024-01-26,Tablet,North America,148,59200
+2024-01-27,Laptop,Europe,124,124000
+2024-01-27,Laptop,Asia,52,52000
+2024-01-27,Laptop,North America,149,149000
+2024-01-27,Monitor,Europe,90,27000
+2024-01-27,Monitor,Asia,80,24000
+2024-01-27,Monitor,North America,93,27900
+2024-01-27,Tablet,Europe,246,98400
+2024-01-27,Tablet,Asia,145,58000
+2024-01-27,Tablet,North America,69,27600
+2024-01-28,Laptop,Europe,120,120000
+2024-01-28,Laptop,Asia,73,73000
+2024-01-28,Laptop,North America,100,100000
+2024-01-28,Monitor,Europe,207,62100
+2024-01-28,Monitor,Asia,52,15600
+2024-01-28,Monitor,North America,200,60000
+2024-01-28,Tablet,Europe,158,63200
+2024-01-28,Tablet,Asia,225,90000
+2024-01-28,Tablet,North America,111,44400
+2024-01-29,Laptop,Europe,94,94000
+2024-01-29,Laptop,Asia,124,124000
+2024-01-29,Laptop,North America,120,120000
+2024-01-29,Monitor,Europe,181,54300
+2024-01-29,Monitor,Asia,52,15600
+2024-01-29,Monitor,North America,170,51000
+2024-01-29,Tablet,Europe,64,25600
+2024-01-29,Tablet,Asia,212,84800
+2024-01-29,Tablet,North America,207,82800
+2024-01-30,Laptop,Europe,139,139000
+2024-01-30,Laptop,Asia,51,51000
+2024-01-30,Laptop,North America,213,213000
+2024-01-30,Monitor,Europe,143,42900
+2024-01-30,Monitor,Asia,185,55500
+2024-01-30,Monitor,North America,53,15900
+2024-01-30,Tablet,Europe,73,29200
+2024-01-30,Tablet,Asia,205,82000
+2024-01-30,Tablet,North America,106,42400
+2024-01-31,Laptop,Europe,67,67000
+2024-01-31,Laptop,Asia,240,240000
+2024-01-31,Laptop,North America,72,72000
+2024-01-31,Monitor,Europe,114,34200
+2024-01-31,Monitor,Asia,52,15600
+2024-01-31,Monitor,North America,211,63300
+2024-01-31,Tablet,Europe,207,82800
+2024-01-31,Tablet,Asia,162,64800
+2024-01-31,Tablet,North America,79,31600
+2024-02-01,Laptop,Europe,66,66000
+2024-02-01,Laptop,Asia,200,200000
+2024-02-01,Laptop,North America,219,219000
+2024-02-01,Monitor,Europe,120,36000
+2024-02-01,Monitor,Asia,126,37800
+2024-02-01,Monitor,North America,228,68400
+2024-02-01,Tablet,Europe,246,98400
+2024-02-01,Tablet,Asia,128,51200
+2024-02-01,Tablet,North America,108,43200
+2024-02-02,Laptop,Europe,88,88000
+2024-02-02,Laptop,Asia,220,220000
+2024-02-02,Laptop,North America,214,214000
+2024-02-02,Monitor,Europe,59,17700
+2024-02-02,Monitor,Asia,232,69600
+2024-02-02,Monitor,North America,198,59400
+2024-02-02,Tablet,Europe,173,69200
+2024-02-02,Tablet,Asia,221,88400
+2024-02-02,Tablet,North America,161,64400
+2024-02-03,Laptop,Europe,59,59000
+2024-02-03,Laptop,Asia,130,130000
+2024-02-03,Laptop,North America,62,62000
+2024-02-03,Monitor,Europe,65,19500
+2024-02-03,Monitor,Asia,228,68400
+2024-02-03,Monitor,North America,233,69900
+2024-02-03,Tablet,Europe,171,68400
+2024-02-03,Tablet,Asia,127,50800
+2024-02-03,Tablet,North America,128,51200
+2024-02-04,Laptop,Europe,130,130000
+2024-02-04,Laptop,Asia,209,209000
+2024-02-04,Laptop,North America,169,169000
+2024-02-04,Monitor,Europe,155,46500
+2024-02-04,Monitor,Asia,177,53100
+2024-02-04,Monitor,North America,52,15600
+2024-02-04,Tablet,Europe,206,82400
+2024-02-04,Tablet,Asia,206,82400
+2024-02-04,Tablet,North America,89,35600
+2024-02-05,Laptop,Europe,59,59000
+2024-02-05,Laptop,Asia,160,160000
+2024-02-05,Laptop,North America,178,178000
+2024-02-05,Monitor,Europe,81,24300
+2024-02-05,Monitor,Asia,123,36900
+2024-02-05,Monitor,North America,131,39300
+2024-02-05,Tablet,Europe,216,86400
+2024-02-05,Tablet,Asia,211,84400
+2024-02-05,Tablet,North America,78,31200
+2024-02-06,Laptop,Europe,160,160000
+2024-02-06,Laptop,Asia,76,76000
+2024-02-06,Laptop,North America,93,93000
+2024-02-06,Monitor,Europe,229,68700
+2024-02-06,Monitor,Asia,165,49500
+2024-02-06,Monitor,North America,196,58800
+2024-02-06,Tablet,Europe,197,78800
+2024-02-06,Tablet,Asia,246,98400
+2024-02-06,Tablet,North America,137,54800
+2024-02-07,Laptop,Europe,204,204000
+2024-02-07,Laptop,Asia,187,187000
+2024-02-07,Laptop,North America,192,192000
+2024-02-07,Monitor,Europe,209,62700
+2024-02-07,Monitor,Asia,128,38400
+2024-02-07,Monitor,North America,153,45900
+2024-02-07,Tablet,Europe,125,50000
+2024-02-07,Tablet,Asia,245,98000
+2024-02-07,Tablet,North America,84,33600
+2024-02-08,Laptop,Europe,208,208000
+2024-02-08,Laptop,Asia,190,190000
+2024-02-08,Laptop,North America,96,96000
+2024-02-08,Monitor,Europe,160,48000
+2024-02-08,Monitor,Asia,249,74700
+2024-02-08,Monitor,North America,150,45000
+2024-02-08,Tablet,Europe,166,66400
+2024-02-08,Tablet,Asia,120,48000
+2024-02-08,Tablet,North America,178,71200
+2024-02-09,Laptop,Europe,210,210000
+2024-02-09,Laptop,Asia,169,169000
+2024-02-09,Laptop,North America,249,249000
+2024-02-09,Monitor,Europe,162,48600
+2024-02-09,Monitor,Asia,92,27600
+2024-02-09,Monitor,North America,233,69900
+2024-02-09,Tablet,Europe,143,57200
+2024-02-09,Tablet,Asia,82,32800
+2024-02-09,Tablet,North America,91,36400
+2024-02-10,Laptop,Europe,215,215000
+2024-02-10,Laptop,Asia,153,153000
+2024-02-10,Laptop,North America,147,147000
+2024-02-10,Monitor,Europe,232,69600
+2024-02-10,Monitor,Asia,66,19800
+2024-02-10,Monitor,North America,124,37200
+2024-02-10,Tablet,Europe,96,38400
+2024-02-10,Tablet,Asia,116,46400
+2024-02-10,Tablet,North America,193,77200
+2024-02-11,Laptop,Europe,173,173000
+2024-02-11,Laptop,Asia,187,187000
+2024-02-11,Laptop,North America,158,158000
+2024-02-11,Monitor,Europe,62,18600
+2024-02-11,Monitor,Asia,85,25500
+2024-02-11,Monitor,North America,214,64200
+2024-02-11,Tablet,Europe,123,49200
+2024-02-11,Tablet,Asia,187,74800
+2024-02-11,Tablet,North America,203,81200
+2024-02-12,Laptop,Europe,69,69000
+2024-02-12,Laptop,Asia,105,105000
+2024-02-12,Laptop,North America,130,130000
+2024-02-12,Monitor,Europe,70,21000
+2024-02-12,Monitor,Asia,189,56700
+2024-02-12,Monitor,North America,60,18000
+2024-02-12,Tablet,Europe,65,26000
+2024-02-12,Tablet,Asia,191,76400
+2024-02-12,Tablet,North America,109,43600
+2024-02-13,Laptop,Europe,78,78000
+2024-02-13,Laptop,Asia,220,220000
+2024-02-13,Laptop,North America,51,51000
+2024-02-13,Monitor,Europe,58,17400
+2024-02-13,Monitor,Asia,100,30000
+2024-02-13,Monitor,North America,155,46500
+2024-02-13,Tablet,Europe,147,58800
+2024-02-13,Tablet,Asia,189,75600
+2024-02-13,Tablet,North America,96,38400
+2024-02-14,Laptop,Europe,94,94000
+2024-02-14,Laptop,Asia,228,228000
+2024-02-14,Laptop,North America,156,156000
+2024-02-14,Monitor,Europe,192,57600
+2024-02-14,Monitor,Asia,99,29700
+2024-02-14,Monitor,North America,200,60000
+2024-02-14,Tablet,Europe,195,78000
+2024-02-14,Tablet,Asia,65,26000
+2024-02-14,Tablet,North America,227,90800
+2024-02-15,Laptop,Europe,122,122000
+2024-02-15,Laptop,Asia,107,107000
+2024-02-15,Laptop,North America,175,175000
+2024-02-15,Monitor,Europe,217,65100
+2024-02-15,Monitor,Asia,182,54600
+2024-02-15,Monitor,North America,136,40800
+2024-02-15,Tablet,Europe,70,28000
+2024-02-15,Tablet,Asia,121,48400
+2024-02-15,Tablet,North America,175,70000
+2024-02-16,Laptop,Europe,202,202000
+2024-02-16,Laptop,Asia,53,53000
+2024-02-16,Laptop,North America,100,100000
+2024-02-16,Monitor,Europe,131,39300
+2024-02-16,Monitor,Asia,215,64500
+2024-02-16,Monitor,North America,72,21600
+2024-02-16,Tablet,Europe,238,95200
+2024-02-16,Tablet,Asia,114,45600
+2024-02-16,Tablet,North America,83,33200
+2024-02-17,Laptop,Europe,236,236000
+2024-02-17,Laptop,Asia,188,188000
+2024-02-17,Laptop,North America,97,97000
+2024-02-17,Monitor,Europe,250,75000
+2024-02-17,Monitor,Asia,207,62100
+2024-02-17,Monitor,North America,213,63900
+2024-02-17,Tablet,Europe,125,50000
+2024-02-17,Tablet,Asia,175,70000
+2024-02-17,Tablet,North America,170,68000
+2024-02-18,Laptop,Europe,121,121000
+2024-02-18,Laptop,Asia,219,219000
+2024-02-18,Laptop,North America,94,94000
+2024-02-18,Monitor,Europe,213,63900
+2024-02-18,Monitor,Asia,123,36900
+2024-02-18,Monitor,North America,248,74400
+2024-02-18,Tablet,Europe,116,46400
+2024-02-18,Tablet,Asia,129,51600
+2024-02-18,Tablet,North America,191,76400
+2024-02-19,Laptop,Europe,197,197000
+2024-02-19,Laptop,Asia,177,177000
+2024-02-19,Laptop,North America,223,223000
+2024-02-19,Monitor,Europe,204,61200
+2024-02-19,Monitor,Asia,163,48900
+2024-02-19,Monitor,North America,91,27300
+2024-02-19,Tablet,Europe,112,44800
+2024-02-19,Tablet,Asia,133,53200
+2024-02-19,Tablet,North America,220,88000
+2024-02-20,Laptop,Europe,246,246000
+2024-02-20,Laptop,Asia,162,162000
+2024-02-20,Laptop,North America,140,140000
+2024-02-20,Monitor,Europe,166,49800
+2024-02-20,Monitor,Asia,134,40200
+2024-02-20,Monitor,North America,129,38700
+2024-02-20,Tablet,Europe,216,86400
+2024-02-20,Tablet,Asia,169,67600
+2024-02-20,Tablet,North America,65,26000
+2024-02-21,Laptop,Europe,76,76000
+2024-02-21,Laptop,Asia,62,62000
+2024-02-21,Laptop,North America,216,216000
+2024-02-21,Monitor,Europe,68,20400
+2024-02-21,Monitor,Asia,173,51900
+2024-02-21,Monitor,North America,209,62700
+2024-02-21,Tablet,Europe,92,36800
+2024-02-21,Tablet,Asia,241,96400
+2024-02-21,Tablet,North America,172,68800
+2024-02-22,Laptop,Europe,53,53000
+2024-02-22,Laptop,Asia,80,80000
+2024-02-22,Laptop,North America,73,73000
+2024-02-22,Monitor,Europe,199,59700
+2024-02-22,Monitor,Asia,104,31200
+2024-02-22,Monitor,North America,194,58200
+2024-02-22,Tablet,Europe,95,38000
+2024-02-22,Tablet,Asia,168,67200
+2024-02-22,Tablet,North America,101,40400
+2024-02-23,Laptop,Europe,58,58000
+2024-02-23,Laptop,Asia,216,216000
+2024-02-23,Laptop,North America,98,98000
+2024-02-23,Monitor,Europe,182,54600
+2024-02-23,Monitor,Asia,77,23100
+2024-02-23,Monitor,North America,56,16800
+2024-02-23,Tablet,Europe,191,76400
+2024-02-23,Tablet,Asia,243,97200
+2024-02-23,Tablet,North America,101,40400
+2024-02-24,Laptop,Europe,125,125000
+2024-02-24,Laptop,Asia,163,163000
+2024-02-24,Laptop,North America,61,61000
+2024-02-24,Monitor,Europe,73,21900
+2024-02-24,Monitor,Asia,207,62100
+2024-02-24,Monitor,North America,206,61800
+2024-02-24,Tablet,Europe,72,28800
+2024-02-24,Tablet,Asia,78,31200
+2024-02-24,Tablet,North America,240,96000
+2024-02-25,Laptop,Europe,219,219000
+2024-02-25,Laptop,Asia,71,71000
+2024-02-25,Laptop,North America,134,134000
+2024-02-25,Monitor,Europe,87,26100
+2024-02-25,Monitor,Asia,188,56400
+2024-02-25,Monitor,North America,73,21900
+2024-02-25,Tablet,Europe,51,20400
+2024-02-25,Tablet,Asia,113,45200
+2024-02-25,Tablet,North America,207,82800
+2024-02-26,Laptop,Europe,222,222000
+2024-02-26,Laptop,Asia,63,63000
+2024-02-26,Laptop,North America,173,173000
+2024-02-26,Monitor,Europe,209,62700
+2024-02-26,Monitor,Asia,207,62100
+2024-02-26,Monitor,North America,146,43800
+2024-02-26,Tablet,Europe,190,76000
+2024-02-26,Tablet,Asia,138,55200
+2024-02-26,Tablet,North America,182,72800
+2024-02-27,Laptop,Europe,196,196000
+2024-02-27,Laptop,Asia,154,154000
+2024-02-27,Laptop,North America,174,174000
+2024-02-27,Monitor,Europe,144,43200
+2024-02-27,Monitor,Asia,114,34200
+2024-02-27,Monitor,North America,55,16500
+2024-02-27,Tablet,Europe,192,76800
+2024-02-27,Tablet,Asia,116,46400
+2024-02-27,Tablet,North America,131,52400
+2024-02-28,Laptop,Europe,161,161000
+2024-02-28,Laptop,Asia,57,57000
+2024-02-28,Laptop,North America,246,246000
+2024-02-28,Monitor,Europe,74,22200
+2024-02-28,Monitor,Asia,142,42600
+2024-02-28,Monitor,North America,241,72300
+2024-02-28,Tablet,Europe,235,94000
+2024-02-28,Tablet,Asia,159,63600
+2024-02-28,Tablet,North America,208,83200
+2024-02-29,Laptop,Europe,162,162000
+2024-02-29,Laptop,Asia,166,166000
+2024-02-29,Laptop,North America,115,115000
+2024-02-29,Monitor,Europe,177,53100
+2024-02-29,Monitor,Asia,207,62100
+2024-02-29,Monitor,North America,125,37500
+2024-02-29,Tablet,Europe,241,96400
+2024-02-29,Tablet,Asia,140,56000
+2024-02-29,Tablet,North America,199,79600
+2024-03-01,Laptop,Europe,74,74000
+2024-03-01,Laptop,Asia,150,150000
+2024-03-01,Laptop,North America,242,242000
+2024-03-01,Monitor,Europe,223,66900
+2024-03-01,Monitor,Asia,105,31500
+2024-03-01,Monitor,North America,99,29700
+2024-03-01,Tablet,Europe,71,28400
+2024-03-01,Tablet,Asia,237,94800
+2024-03-01,Tablet,North America,131,52400
+2024-03-02,Laptop,Europe,249,249000
+2024-03-02,Laptop,Asia,180,180000
+2024-03-02,Laptop,North America,133,133000
+2024-03-02,Monitor,Europe,190,57000
+2024-03-02,Monitor,Asia,77,23100
+2024-03-02,Monitor,North America,59,17700
+2024-03-02,Tablet,Europe,191,76400
+2024-03-02,Tablet,Asia,193,77200
+2024-03-02,Tablet,North America,121,48400
+2024-03-03,Laptop,Europe,143,143000
+2024-03-03,Laptop,Asia,83,83000
+2024-03-03,Laptop,North America,137,137000
+2024-03-03,Monitor,Europe,93,27900
+2024-03-03,Monitor,Asia,108,32400
+2024-03-03,Monitor,North America,194,58200
+2024-03-03,Tablet,Europe,137,54800
+2024-03-03,Tablet,Asia,230,92000
+2024-03-03,Tablet,North America,58,23200
+2024-03-04,Laptop,Europe,78,78000
+2024-03-04,Laptop,Asia,202,202000
+2024-03-04,Laptop,North America,215,215000
+2024-03-04,Monitor,Europe,218,65400
+2024-03-04,Monitor,Asia,225,67500
+2024-03-04,Monitor,North America,217,65100
+2024-03-04,Tablet,Europe,160,64000
+2024-03-04,Tablet,Asia,83,33200
+2024-03-04,Tablet,North America,146,58400
+2024-03-05,Laptop,Europe,88,88000
+2024-03-05,Laptop,Asia,135,135000
+2024-03-05,Laptop,North America,220,220000
+2024-03-05,Monitor,Europe,89,26700
+2024-03-05,Monitor,Asia,157,47100
+2024-03-05,Monitor,North America,250,75000
+2024-03-05,Tablet,Europe,90,36000
+2024-03-05,Tablet,Asia,233,93200
+2024-03-05,Tablet,North America,202,80800
+2024-03-06,Laptop,Europe,230,230000
+2024-03-06,Laptop,Asia,102,102000
+2024-03-06,Laptop,North America,246,246000
+2024-03-06,Monitor,Europe,228,68400
+2024-03-06,Monitor,Asia,93,27900
+2024-03-06,Monitor,North America,131,39300
+2024-03-06,Tablet,Europe,128,51200
+2024-03-06,Tablet,Asia,238,95200
+2024-03-06,Tablet,North America,218,87200
+2024-03-07,Laptop,Europe,145,145000
+2024-03-07,Laptop,Asia,173,173000
+2024-03-07,Laptop,North America,209,209000
+2024-03-07,Monitor,Europe,221,66300
+2024-03-07,Monitor,Asia,78,23400
+2024-03-07,Monitor,North America,209,62700
+2024-03-07,Tablet,Europe,115,46000
+2024-03-07,Tablet,Asia,250,100000
+2024-03-07,Tablet,North America,85,34000
+2024-03-08,Laptop,Europe,151,151000
+2024-03-08,Laptop,Asia,61,61000
+2024-03-08,Laptop,North America,237,237000
+2024-03-08,Monitor,Europe,198,59400
+2024-03-08,Monitor,Asia,223,66900
+2024-03-08,Monitor,North America,202,60600
+2024-03-08,Tablet,Europe,185,74000
+2024-03-08,Tablet,Asia,177,70800
+2024-03-08,Tablet,North America,101,40400
+2024-03-09,Laptop,Europe,207,207000
+2024-03-09,Laptop,Asia,204,204000
+2024-03-09,Laptop,North America,173,173000
+2024-03-09,Monitor,Europe,157,47100
+2024-03-09,Monitor,Asia,153,45900
+2024-03-09,Monitor,North America,124,37200
+2024-03-09,Tablet,Europe,144,57600
+2024-03-09,Tablet,Asia,115,46000
+2024-03-09,Tablet,North America,164,65600
+2024-03-10,Laptop,Europe,138,138000
+2024-03-10,Laptop,Asia,80,80000
+2024-03-10,Laptop,North America,111,111000
+2024-03-10,Monitor,Europe,237,71100
+2024-03-10,Monitor,Asia,200,60000
+2024-03-10,Monitor,North America,157,47100
+2024-03-10,Tablet,Europe,86,34400
+2024-03-10,Tablet,Asia,146,58400
+2024-03-10,Tablet,North America,166,66400
+2024-03-11,Laptop,Europe,176,176000
+2024-03-11,Laptop,Asia,61,61000
+2024-03-11,Laptop,North America,196,196000
+2024-03-11,Monitor,Europe,122,36600
+2024-03-11,Monitor,Asia,139,41700
+2024-03-11,Monitor,North America,126,37800
+2024-03-11,Tablet,Europe,126,50400
+2024-03-11,Tablet,Asia,193,77200
+2024-03-11,Tablet,North America,136,54400
+2024-03-12,Laptop,Europe,136,136000
+2024-03-12,Laptop,Asia,125,125000
+2024-03-12,Laptop,North America,248,248000
+2024-03-12,Monitor,Europe,68,20400
+2024-03-12,Monitor,Asia,233,69900
+2024-03-12,Monitor,North America,140,42000
+2024-03-12,Tablet,Europe,200,80000
+2024-03-12,Tablet,Asia,208,83200
+2024-03-12,Tablet,North America,153,61200
+2024-03-13,Laptop,Europe,67,67000
+2024-03-13,Laptop,Asia,110,110000
+2024-03-13,Laptop,North America,147,147000
+2024-03-13,Monitor,Europe,197,59100
+2024-03-13,Monitor,Asia,193,57900
+2024-03-13,Monitor,North America,197,59100
+2024-03-13,Tablet,Europe,185,74000
+2024-03-13,Tablet,Asia,62,24800
+2024-03-13,Tablet,North America,142,56800
+2024-03-14,Laptop,Europe,218,218000
+2024-03-14,Laptop,Asia,104,104000
+2024-03-14,Laptop,North America,156,156000
+2024-03-14,Monitor,Europe,141,42300
+2024-03-14,Monitor,Asia,236,70800
+2024-03-14,Monitor,North America,186,55800
+2024-03-14,Tablet,Europe,220,88000
+2024-03-14,Tablet,Asia,219,87600
+2024-03-14,Tablet,North America,143,57200
+2024-03-15,Laptop,Europe,161,161000
+2024-03-15,Laptop,Asia,203,203000
+2024-03-15,Laptop,North America,189,189000
+2024-03-15,Monitor,Europe,157,47100
+2024-03-15,Monitor,Asia,123,36900
+2024-03-15,Monitor,North America,124,37200
+2024-03-15,Tablet,Europe,145,58000
+2024-03-15,Tablet,Asia,78,31200
+2024-03-15,Tablet,North America,175,70000
+2024-03-16,Laptop,Europe,143,143000
+2024-03-16,Laptop,Asia,145,145000
+2024-03-16,Laptop,North America,155,155000
+2024-03-16,Monitor,Europe,181,54300
+2024-03-16,Monitor,Asia,188,56400
+2024-03-16,Monitor,North America,176,52800
+2024-03-16,Tablet,Europe,115,46000
+2024-03-16,Tablet,Asia,74,29600
+2024-03-16,Tablet,North America,235,94000
+2024-03-17,Laptop,Europe,124,124000
+2024-03-17,Laptop,Asia,97,97000
+2024-03-17,Laptop,North America,89,89000
+2024-03-17,Monitor,Europe,129,38700
+2024-03-17,Monitor,Asia,193,57900
+2024-03-17,Monitor,North America,56,16800
+2024-03-17,Tablet,Europe,83,33200
+2024-03-17,Tablet,Asia,233,93200
+2024-03-17,Tablet,North America,108,43200
+2024-03-18,Laptop,Europe,161,161000
+2024-03-18,Laptop,Asia,233,233000
+2024-03-18,Laptop,North America,116,116000
+2024-03-18,Monitor,Europe,71,21300
+2024-03-18,Monitor,Asia,156,46800
+2024-03-18,Monitor,North America,127,38100
+2024-03-18,Tablet,Europe,84,33600
+2024-03-18,Tablet,Asia,199,79600
+2024-03-18,Tablet,North America,206,82400
+2024-03-19,Laptop,Europe,104,104000
+2024-03-19,Laptop,Asia,57,57000
+2024-03-19,Laptop,North America,194,194000
+2024-03-19,Monitor,Europe,211,63300
+2024-03-19,Monitor,Asia,64,19200
+2024-03-19,Monitor,North America,168,50400
+2024-03-19,Tablet,Europe,67,26800
+2024-03-19,Tablet,Asia,204,81600
+2024-03-19,Tablet,North America,160,64000
+2024-03-20,Laptop,Europe,244,244000
+2024-03-20,Laptop,Asia,166,166000
+2024-03-20,Laptop,North America,224,224000
+2024-03-20,Monitor,Europe,230,69000
+2024-03-20,Monitor,Asia,86,25800
+2024-03-20,Monitor,North America,212,63600
+2024-03-20,Tablet,Europe,106,42400
+2024-03-20,Tablet,Asia,146,58400
+2024-03-20,Tablet,North America,61,24400
+2024-03-21,Laptop,Europe,183,183000
+2024-03-21,Laptop,Asia,214,214000
+2024-03-21,Laptop,North America,226,226000
+2024-03-21,Monitor,Europe,121,36300
+2024-03-21,Monitor,Asia,78,23400
+2024-03-21,Monitor,North America,241,72300
+2024-03-21,Tablet,Europe,249,99600
+2024-03-21,Tablet,Asia,109,43600
+2024-03-21,Tablet,North America,134,53600
+2024-03-22,Laptop,Europe,217,217000
+2024-03-22,Laptop,Asia,50,50000
+2024-03-22,Laptop,North America,127,127000
+2024-03-22,Monitor,Europe,211,63300
+2024-03-22,Monitor,Asia,75,22500
+2024-03-22,Monitor,North America,164,49200
+2024-03-22,Tablet,Europe,78,31200
+2024-03-22,Tablet,Asia,241,96400
+2024-03-22,Tablet,North America,55,22000
+2024-03-23,Laptop,Europe,224,224000
+2024-03-23,Laptop,Asia,91,91000
+2024-03-23,Laptop,North America,99,99000
+2024-03-23,Monitor,Europe,60,18000
+2024-03-23,Monitor,Asia,243,72900
+2024-03-23,Monitor,North America,92,27600
+2024-03-23,Tablet,Europe,243,97200
+2024-03-23,Tablet,Asia,68,27200
+2024-03-23,Tablet,North America,148,59200
+2024-03-24,Laptop,Europe,127,127000
+2024-03-24,Laptop,Asia,90,90000
+2024-03-24,Laptop,North America,89,89000
+2024-03-24,Monitor,Europe,52,15600
+2024-03-24,Monitor,Asia,182,54600
+2024-03-24,Monitor,North America,114,34200
+2024-03-24,Tablet,Europe,231,92400
+2024-03-24,Tablet,Asia,70,28000
+2024-03-24,Tablet,North America,217,86800
+2024-03-25,Laptop,Europe,123,123000
+2024-03-25,Laptop,Asia,247,247000
+2024-03-25,Laptop,North America,185,185000
+2024-03-25,Monitor,Europe,157,47100
+2024-03-25,Monitor,Asia,131,39300
+2024-03-25,Monitor,North America,72,21600
+2024-03-25,Tablet,Europe,244,97600
+2024-03-25,Tablet,Asia,153,61200
+2024-03-25,Tablet,North America,144,57600
+2024-03-26,Laptop,Europe,113,113000
+2024-03-26,Laptop,Asia,100,100000
+2024-03-26,Laptop,North America,110,110000
+2024-03-26,Monitor,Europe,223,66900
+2024-03-26,Monitor,Asia,186,55800
+2024-03-26,Monitor,North America,57,17100
+2024-03-26,Tablet,Europe,161,64400
+2024-03-26,Tablet,Asia,189,75600
+2024-03-26,Tablet,North America,150,60000
+2024-03-27,Laptop,Europe,51,51000
+2024-03-27,Laptop,Asia,212,212000
+2024-03-27,Laptop,North America,149,149000
+2024-03-27,Monitor,Europe,207,62100
+2024-03-27,Monitor,Asia,79,23700
+2024-03-27,Monitor,North America,244,73200
+2024-03-27,Tablet,Europe,90,36000
+2024-03-27,Tablet,Asia,200,80000
+2024-03-27,Tablet,North America,217,86800
+2024-03-28,Laptop,Europe,92,92000
+2024-03-28,Laptop,Asia,85,85000
+2024-03-28,Laptop,North America,241,241000
+2024-03-28,Monitor,Europe,81,24300
+2024-03-28,Monitor,Asia,248,74400
+2024-03-28,Monitor,North America,241,72300
+2024-03-28,Tablet,Europe,136,54400
+2024-03-28,Tablet,Asia,136,54400
+2024-03-28,Tablet,North America,65,26000
+2024-03-29,Laptop,Europe,199,199000
+2024-03-29,Laptop,Asia,247,247000
+2024-03-29,Laptop,North America,213,213000
+2024-03-29,Monitor,Europe,52,15600
+2024-03-29,Monitor,Asia,177,53100
+2024-03-29,Monitor,North America,213,63900
+2024-03-29,Tablet,Europe,223,89200
+2024-03-29,Tablet,Asia,234,93600
+2024-03-29,Tablet,North America,236,94400
+2024-03-30,Laptop,Europe,245,245000
+2024-03-30,Laptop,Asia,182,182000
+2024-03-30,Laptop,North America,171,171000
+2024-03-30,Monitor,Europe,111,33300
+2024-03-30,Monitor,Asia,138,41400
+2024-03-30,Monitor,North America,110,33000
+2024-03-30,Tablet,Europe,84,33600
+2024-03-30,Tablet,Asia,225,90000
+2024-03-30,Tablet,North America,86,34400
+2024-03-31,Laptop,Europe,199,199000
+2024-03-31,Laptop,Asia,107,107000
+2024-03-31,Laptop,North America,72,72000
+2024-03-31,Monitor,Europe,88,26400
+2024-03-31,Monitor,Asia,152,45600
+2024-03-31,Monitor,North America,158,47400
+2024-03-31,Tablet,Europe,131,52400
+2024-03-31,Tablet,Asia,166,66400
+2024-03-31,Tablet,North America,112,44800
